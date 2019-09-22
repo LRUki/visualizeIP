@@ -8,4 +8,4 @@ which relies on an external api.
 
 The collected raw data:
 
-![alt text](https://github.com/LRUki/visualizeIP/master/outputIMG/Screen Shot 2019-09-22 at 22.18.45)
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/raw.png)

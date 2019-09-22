@@ -1,22 +1,20 @@
 # visualizeIP
- Program that collects, analyzes and visualizes IP geolocation data
+ <strong>Program that collects, analyzes and visualizes IP geolocation data</strong>
 
 
 
-The collected raw data:
+<strong>The collected raw data: </strong>
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/raw.png)
 
-Creats pandas Dataframe:
+<strong>Creats pandas Dataframe:</strong>
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/Df.png)
 
-displays pie chart,bar chart, histogram, giving the overview of the data:
+<strong>displays pie chart,bar chart, histogram, giving the overview of the data:</strong>
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/pie.png)
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/bar.png)
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/bar2.png)
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/hist.png)
 
-Plots the collected data on google map:
+<strong>Plots the collected data on google map:</strong>
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/mapC.png)
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/mapR.png)
-checkout:
-https://github.com/LRUki/visualizeIP/blob/master/outputIMG/quickDemo.png

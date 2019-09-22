@@ -1,11 +1,19 @@
 # visualizeIP
  Program that collects, analyzes and visualizes IP geolocation data
 
-the organize object organizes the JSON ip info data saved in the ip.json file and 
-provides methods to analyze the raw data(filtering,extracting specified info) 
-This json file was created by running ipAnalyze/collect.py, 
-which relies on an external api.
+
 
 The collected raw data:
-
 ![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/raw.png)
+
+Creats pandas Dataframe:
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/Df.png)
+
+displays pie chart,bar chart, histogram, giving the overview of the data:
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/pie.png)
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/bar.png)
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/bar2.png)
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/hist.png)
+
+Plots the collected data on google map:
+![alt text](https://github.com/LRUki/visualizeIP/blob/master/outputIMG/quickDemo.html)

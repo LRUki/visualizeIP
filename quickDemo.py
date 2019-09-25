@@ -17,7 +17,7 @@ for obj in organizeData.data[:3]+organizeData.data[-3:]:
 #summary of the data
 print('summary of the data:')
 print(organizeData.summary())
-#print('\n')
+print('\n')
 
 '''visualization of the data'''
 
